@@ -1,0 +1,16 @@
+{
+  "name": "anaya-estimates",
+  "version": "1.0.0",
+  "description": "Anaya's Build & Finish — Estimates App",
+  "main": "sync-server.js",
+  "scripts": {
+    "start": "node sync-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
